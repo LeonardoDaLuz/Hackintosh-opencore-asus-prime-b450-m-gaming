@@ -1,0 +1,9 @@
+Type:         iMacPro1,1
+Serial:       C02XP8YYHX87
+Board Serial: C02846600CDJG36A8
+SmUUID:       4E7D786E-59A9-4F6A-A147-0B5FA382B15E
+Apple ROM:    C8855037426D
+
+
+XHCI habilita
+desabilita fast boot, csm e secure boot
